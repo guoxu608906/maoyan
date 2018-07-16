@@ -1,6 +1,3 @@
 wenwen
-<<<<<<< HEAD
-wen
-=======
 xu
->>>>>>> 05c3b0aecb28147e89e266675246fd959c4c0182
+wen
